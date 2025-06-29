@@ -1,2 +1,2 @@
 # Project
-My first Project on web development learnng
+My first Project on web development learnng journey
